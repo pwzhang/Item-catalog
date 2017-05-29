@@ -1,5 +1,5 @@
-First cd Udacity-item-catalog
-Then run 'vagrant up' to set up the virtual machine.
+
+Run 'vagrant up' to set up the virtual machine.
 run 'vagrant ssh' to login to the virtual machine.
 Then you can run command in the virtual environment to implement the project.
 
